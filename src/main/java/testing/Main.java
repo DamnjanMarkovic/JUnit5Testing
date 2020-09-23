@@ -1,2 +1,9 @@
-package testing;public class Main {
+package testing;
+
+public class Main {
+
+    public int add(int a, int b) {
+        return a + b;
+    }
+
 }
